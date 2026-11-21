@@ -1,0 +1,8 @@
+{
+  "name": "L.L Sports",
+  "description": "Casa de apostas esportivas com cotações ao vivo, bilhetes simples e múltiplos, consulta de bilhetes por código e gestão de banca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
